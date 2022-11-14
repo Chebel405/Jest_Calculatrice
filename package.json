@@ -1,0 +1,24 @@
+{
+  "name": "calculatrice-tdd",
+  "version": "0.0.1",
+  "description": "Application calculatrice en Node  en TDD",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "npx tsc",
+    "start": "npm run build && node ."
+  },
+  "Keywords": [
+    "tdd",
+    "jest",
+    "node",
+    "calcultatrice",
+    "demo",
+    "poulet"
+  ],
+  "author": "Anne Chebel <anne.chebel@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-jest": "^29.0.3"
+  }
+}
