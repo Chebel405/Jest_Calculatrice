@@ -19,6 +19,7 @@
   "author": "Anne Chebel <anne.chebel@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^29.2.2",
     "ts-jest": "^29.0.3"
   }
 }
